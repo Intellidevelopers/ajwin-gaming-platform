@@ -9,8 +9,8 @@ function App() {
         <br />
         <p>
           Welcome to <b>AJWIN</b> online game.
-    <br> you play you win 
         </p>
+    <p>You play you win</p>
         <a
           className="App-link"
           href="https://ajwin.sonicvibe.com.ng"
