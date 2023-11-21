@@ -9,6 +9,7 @@ function App() {
         <br />
         <p>
           Welcome to <b>AJWIN</b> online game.
+    <br> you play you win 
         </p>
         <a
           className="App-link"
