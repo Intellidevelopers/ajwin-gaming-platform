@@ -14,13 +14,14 @@
 }
 button{
   padding: 15px;
-  width: 140%;
+  width: 150%;
   color: white;
   border: none;
   outline: none;
   border-radius: 4px;
   font-weight: 700;
   background-color: blueviolet;
+  margin-left: -10%;
 }
 
 .App-header {
